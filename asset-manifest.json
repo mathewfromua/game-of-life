@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/game-of-life/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/github.io/game-of-life/static/js/main.04fe61fa.chunk.js",
+    "main.js.map": "/github.io/game-of-life/static/js/main.04fe61fa.chunk.js.map",
+    "runtime-main.js": "/github.io/game-of-life/static/js/runtime-main.50fc3afa.js",
+    "runtime-main.js.map": "/github.io/game-of-life/static/js/runtime-main.50fc3afa.js.map",
+    "static/js/2.f7df7836.chunk.js": "/github.io/game-of-life/static/js/2.f7df7836.chunk.js",
+    "static/js/2.f7df7836.chunk.js.map": "/github.io/game-of-life/static/js/2.f7df7836.chunk.js.map",
+    "static/js/3.e6da5fc5.chunk.js": "/github.io/game-of-life/static/js/3.e6da5fc5.chunk.js",
+    "static/js/3.e6da5fc5.chunk.js.map": "/github.io/game-of-life/static/js/3.e6da5fc5.chunk.js.map",
+    "index.html": "/github.io/game-of-life/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/github.io/game-of-life/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.f7df7836.chunk.js.LICENSE.txt": "/github.io/game-of-life/static/js/2.f7df7836.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50fc3afa.js",
+    "static/js/2.f7df7836.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.04fe61fa.chunk.js"
+  ]
+}
